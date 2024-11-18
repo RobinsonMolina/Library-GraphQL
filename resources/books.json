@@ -1,0 +1,74 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "pages": 120,
+            "year": 2003
+        },
+        {
+            "id": 2,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "pages": 230,
+            "year": 1971
+        },
+        {
+            "id": 3,
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1994
+        },
+        {
+            "id": 4,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1937
+        },
+        {
+            "id": 5,
+            "title": "The Fellowship of the Ring",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1954
+        },
+        {
+            "id": 6,
+            "title": "The Two Towers",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1954
+        },
+        {
+            "id": 7,
+            "title": "The Return of the King",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1955
+        },
+        {
+            "id": 8,
+            "title": "The Silmarillion",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1977
+        },
+        {
+            "id": 9,
+            "title": "The Children of Húrin",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1956
+        },
+        {
+            "id": 10,
+            "title": "The War of the Ring",
+            "author": "J.R.R. Tolkien",
+            "pages": 1200,
+            "year": 1955
+        }
+    ]
+}
